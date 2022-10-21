@@ -1,0 +1,5 @@
+C:\Users\טננבוים\source\repos\RBACProject\RBACProject.Repositories\obj\Debug\netcoreapp3.1\RBACProject.Repositories.csproj.AssemblyReference.cache
+C:\Users\טננבוים\source\repos\RBACProject\RBACProject.Repositories\obj\Debug\netcoreapp3.1\RBACProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\טננבוים\source\repos\RBACProject\RBACProject.Repositories\obj\Debug\netcoreapp3.1\RBACProject.Repositories.AssemblyInfoInputs.cache
+C:\Users\טננבוים\source\repos\RBACProject\RBACProject.Repositories\obj\Debug\netcoreapp3.1\RBACProject.Repositories.AssemblyInfo.cs
+C:\Users\טננבוים\source\repos\RBACProject\RBACProject.Repositories\obj\Debug\netcoreapp3.1\RBACProject.Repositories.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "k3srz/KCNEyoZLD/wYl0mI4t9jUeqTCsDdWFYEs7XDbFu7jWSqmVAYw00yNYCmrQOhoehQH2SEXleppYh9HmbA==",
+  "success": true,
+  "projectFilePath": "H:\\תכנות שנה ב תשפג\\מירי טננבוים\\מתקדם C#\\RBACProject\\RBACProject.Mock\\RBACProject.Mock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tichnut\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\tichnut\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\tichnut\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
